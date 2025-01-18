@@ -370,7 +370,8 @@ nav ul .search {
     }
     .item_container{
         grid-template-columns: 1fr;
-        margin-left: 10px;
+        gap: 10px;
+        /* margin-left: 10px; */
     }
 
     .item_card img{
@@ -384,7 +385,8 @@ nav ul .search {
 @media screen and (min-width: 576px) and (max-width: 992px) {
     .item_container{
         grid-template-columns: repeat(2, 1fr);
-        margin-left: 15px;
+        gap: 10px;
+        margin-left: 5px;
     }
 
     .item_card img{
