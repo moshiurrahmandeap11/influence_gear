@@ -412,6 +412,10 @@ nav ul .search {
         text-align: center;
     }
 
+    .featured_image{
+        margin-left: 50px;
+    }
+
     .featured_image img{
         width: 80%;
     }
