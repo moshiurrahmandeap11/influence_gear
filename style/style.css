@@ -334,7 +334,7 @@ nav ul .search {
     .item_container {
         grid-template-columns: repeat(2, 1fr);
         gap: 20px;
-        margin-left: 3px;
+        margin-left: 6px;
     }
 
     .item_card img {
