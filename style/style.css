@@ -370,7 +370,7 @@ nav ul .search {
     }
     .item_container{
         grid-template-columns: 1fr;
-        margin-left: 25px;
+        margin-left: 10px;
     }
 
     .item_card img{
