@@ -413,8 +413,7 @@ nav ul .search {
     }
 
     .featured_image{
-        width: 100%;
-        max-width: 250px;
+        width: 80%;
     }
 }
 
