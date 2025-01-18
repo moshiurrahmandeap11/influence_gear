@@ -433,8 +433,8 @@ nav ul .search {
 
 footer{
     width: 100%;
+    height: auto;
     background-color: rgb(10, 8, 38);
-    border: 1px solid saddlebrown;
     margin: 0 auto;
 }
 
@@ -451,6 +451,7 @@ footer{
     line-height: 2.2rem;
     color: rgb(255, 255, 255);
     margin-bottom: 3px;
+    margin-top: 50px;
 }
 
 .footer_text{
