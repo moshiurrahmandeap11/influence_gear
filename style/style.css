@@ -394,10 +394,27 @@ nav ul .search {
     }
 
     .featured_description{
-        max-width: 200px;
-        display: none;
-        margin-right: 5px;
-        text-align: left;
+        max-width: 90%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .featured_text{
+        color: rgb(108, 108, 108);
+        font-size: 0.9rem;
+        line-height: 1.4rem; 
+        margin-bottom: 1rem;
+        width: 100%; 
+        text-align: center;
+    }
+
+    .featured_btn{
+        text-align: center;
+    }
+
+    .featured_image{
+        width: 100%;
+        max-width: 300px;
     }
 }
 
