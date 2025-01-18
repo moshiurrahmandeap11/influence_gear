@@ -427,3 +427,46 @@ nav ul .search {
         gap: 20px;
     }
 }
+/* featured end */
+
+/* footer start */
+
+footer{
+    width: 100%;
+    background-color: rgb(10, 8, 38);
+    border: 1px solid saddlebrown;
+    margin: 0 auto;
+}
+
+.footer_container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer_title{
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 2.2rem;
+    color: rgb(255, 255, 255);
+    margin-bottom: 3px;
+}
+
+.footer_text{
+    font-weight: 700;
+    font-size: 0.9rem;
+    line-height: 1.5rem;
+    color: rgb(217, 219, 225);
+    margin-bottom: 3px;
+}
+
+.mb{
+    margin-bottom: 1rem;
+}
+
+.social{
+    color: rgb(255, 255, 255);
+    display: flex;
+    gap: 30px;
+}
